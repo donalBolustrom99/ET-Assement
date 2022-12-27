@@ -2,5 +2,5 @@
 
 This Repository is for the Emerging Technologies assesment. Attended at ATU, on 2022/2023
 
-# How to each notebooks
+# How to access the notebooks
 (https://donalbolustrom99.github.io/ET-Assement/lab/index.html)
