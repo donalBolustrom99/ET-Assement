@@ -11,12 +11,12 @@ Click the link below to access JupyterLite <br>
 (https://donalbolustrom99.github.io/ET-Assement/lab/index.html)
 
 ### Github-Pages
-This github repository makes use of Github-Page, any commit made will be automatically published and the JupyterLite instance will be updated.
+This github repository makes use of Github-Pages, any commit made will be automatically published and the JupyterLite instance will be updated.
 
 # Running on Local Machine
-To run the Notebooks on your local machine, you will first need to install Anaconda, this is what I found worked best. Once installed you can clone the repository using
-git clone https://github.com/donalBolustrom99/ET-Assement.git
-to use the quantum computing notebook you will need to run the command pip install qiskit in your CMD
+To run the Notebooks on your local machine, you will first need to install Anaconda, this is what I found worked best. Once installed you can clone the repository using <br>
+git clone https://github.com/donalBolustrom99/ET-Assement.git <br>
+To use the quantum computing notebook you will need to run the command pip install qiskit in your CMD
 
 # Notebook Contents
 This Repository contains 3 Jupyter Notebooks exploring varies concepts in computing as a whole.
