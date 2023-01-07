@@ -10,6 +10,9 @@ JupyterLite allows you to edit the notebooks make and explore python without any
 Click the link below to access JupyterLite <br>
 (https://donalbolustrom99.github.io/ET-Assement/lab/index.html)
 
+### Github-Pages
+This github repository makes use of Github-Page, any commit made will be automatically published and the JupyterLite instance will be updated.
+
 # Running on Local Machine
 To run the Notebooks on your local machine, you will first need to install Anaconda, this is what I found worked best. Once installed you can clone the repository using
 git clone https://github.com/donalBolustrom99/ET-Assement.git
