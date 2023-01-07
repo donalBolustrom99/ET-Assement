@@ -4,10 +4,10 @@ This Repository is for the Emerging Technologies assesment. Attended at ATU, on 
 
 # Introduction
 This Github page was created from the JupyterLite template page, found here (https://github.com/jupyterlite/demo)
-JupyterLite allows you to edit the notebooks made and explore python without any prior setup, any changed made will only be saved to your local machine so feel free to jump into the notebook and explore the content however you would like.
+JupyterLite allows you to edit the notebooks make and explore python without any prior setup, any changed made will only be saved to your local machine so feel free to jump into the notebook and explore the content however you would like.
 
 ### Accessing the notebook
-Click the link below to access Jupyter Lite
+Click the link below to access Jupyter Lite <br>
 (https://donalbolustrom99.github.io/ET-Assement/lab/index.html)
 
 # Running on Local Machine
@@ -23,16 +23,16 @@ The 3 Notebooks are as follows
 2. Fourier Transforms
 3. Quantum Computing
 
-Each notebook will be explained in more detail below, and pratical and even more information can be found in the pratical section.
+Each notebook will be explained in more detail below, and pratical and even more information can be found in the notebook themselves.
 
 ## Computing
-This section explores primarily graphing in python, there are many instances of bigO representation present in the notebook. The Turing Machine  is also explored in the notebook. 
+This section explores primarily graphing in python, there are many instances of bigO representation present in the notebook. The Turing Machine is also explored in the notebook. 
 ### Turing Machine 
 The Turing Machine is a machine invented by Alan Turing in 1936. It is a machine that reads and writes symbols. The Machine can be used to perform any calculation a computer can, we can mimic this process easily in python aswell.
 
 ## Fourier Transform
-This section expored complex numbers in computing, we explore addition, multiplication and more in the notebook. We also explore these concepts in a object orientated form.
-We also explore Parabolas in this section, and we create a function to calculate with the quadratic formula.
+This section explores complex numbers in computing, we explore addition, multiplication and more in the notebook. We also explore these concepts in a object orientated form.
+We also explore Parabolas in this section, and we create a function to make calculations with the quadratic formula.
 
 ## Quantum Computing
 Quantum computing uses Qiskit (https://qiskit.org)
