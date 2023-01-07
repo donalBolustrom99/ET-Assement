@@ -6,8 +6,8 @@ This Repository is for the Emerging Technologies assesment. Attended at ATU, on 
 This Github page was created from the JupyterLite template page, found here (https://github.com/jupyterlite/demo)
 JupyterLite allows you to edit the notebooks make and explore python without any prior setup, any changed made will only be saved to your local machine so feel free to jump into the notebook and explore the content however you would like.
 
-### Accessing the notebook
-Click the link below to access Jupyter Lite <br>
+# Accessing the Notebook with JupyterLite
+Click the link below to access JupyterLite <br>
 (https://donalbolustrom99.github.io/ET-Assement/lab/index.html)
 
 # Running on Local Machine
